@@ -1,7 +1,5 @@
 # estudo_de_integracao_api
 
-Aqui está o texto para o seu README.md formatado de maneira limpa e profissional, sem emojis, pronto para ser copiado:
-
 API Currency Tracker
 Este projeto é um script de automação desenvolvido em Python para realizar a extração e o monitoramento de dados financeiros em tempo real. Ele foi construído para colocar em prática conceitos de integração de sistemas e manipulação de dados externos.
 
